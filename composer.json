@@ -58,6 +58,10 @@
     "repositories": [
         {
             "type": "composer",
+            "url": "https://iglue.io/1-unstable/"
+        },
+        {
+            "type": "composer",
             "url": "https://packages.drupal.org/8"
         }
     ]
